@@ -2,6 +2,12 @@
 
 This serves as a repository of writings, ideas, and such. Basically anything I find interesting and worth writing down will go here. Big brained theories? You bet. Dumb takes that I will squash so you can't see the commit history? Oh yeah.
 
+## Topics
+
+1. [Economics](https://github.com/jpsheils/jpsheils.github.io/tree/main/economics)
+2. [Politics](https://github.com/jpsheils/jpsheils.github.io/tree/main/politics)
+3. [Geopolitics](https://github.com/jpsheils/jpsheils.github.io/tree/main/geopolitics)
+
 ## Questions/Suggestions
 
 Questions, feedback, or suggestions can be given via the "issues" tab on this repo. Create an issue, label it as a "question" and we can discuss further there (and make and required document changes if needed).
