@@ -1,0 +1,5 @@
+# Ireland for the Multinationals: How Policymakers Repress Irish Enterprise
+
+As we approach the centenary of the official creation of the Irish state, we should take stock of our humble island. A nation forged in revolution, inspired by chants of 'Ireland for the Irish'. A government (which was supposed to be) by and for the Irish people, focused on forwarding the interests of the Irish people: socially, economically, and geopolitically. Yet, looking around at the state of the economy in 2020, it's as if that phrase has been turned on its head. It pays to *not* be an Irish company. It pays to *not* be an Irish worker. In this document, we're going to explore how Irish economic and tax policy has abandoned the domestic economy in exchange for the 'Multinational economy' - as well as what we can change to break this trend.
+
+[FDI Doc](https://www.tandfonline.com/doi/full/10.1080/00130095.2017.1393312)
