@@ -18,12 +18,17 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
 <details>
   <summary><strong>Politics</strong></summary>
   
-  * [Ideological War](./politics/ideologischer-krieg)
-  * [Neocolonialism](./politics/neokolonialismus)
-  * [Political Creativity](./politics/politische-kreativität)
-
-  #### Miscellaneous
-  * [Collective Morality](./politics/miscellaneous/grundgesetz-des-volkes) 
+  <ul>
+    <li>
+      <ul>
+        <lh>Miscellaneous</lh>
+        <li><a href="./politics/miscellaneous/grundgesetz-des-volkes">Collective Morality</a></li>
+      </ul>
+    </li>
+    <li><a href="./politics/ideologischer-krieg">Ideological War</a></li>
+    <li><a href="./politics/neokolonialismus">Neocolonialism</a></li>
+    <li><a href="./politics/politische-kreativität">Political Creativity</a></li>
+  </ul>
 
 </details>
 
