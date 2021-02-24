@@ -5,7 +5,7 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
 ## Topics
 
  <details>
-  <summary>Economics</summary>
+  <summary><strong>Economics</strong></summary>
 
   * [Financial Reconstruction](./economics/finanzielle-sanierung)
   * [Crypto Currency](./economics/kryptowährung)
@@ -14,7 +14,7 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
 </details>
 
 <details>
-  <summary>Politics</summary>
+  <summary><strong>Politics</strong></summary>
   
   * [Ideological War](./politics/ideologischer-krieg)
   * [Neocolonialism](./politics/neokolonialismus)
@@ -35,7 +35,7 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
 
 Questions, feedback, or suggestions can be given via the "issues" tab on this repo. Create an issue, label it as a "question" and we can discuss further there (and make and required document changes if needed).
 
-### Contributing
+## Contributing
 You're welcome to contribute if you'd like.
 
 1. Fork this Repo, and clone locally
