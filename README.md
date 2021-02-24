@@ -1,6 +1,6 @@
 # Patrick Sheils' Writing
 
-This serves as a repository of writings, ideas, and such. Basically anything I find interesting and worth writing down will go here. This page is also served up
+This serves as a repository of writings, ideas, and such. Basically anything I find interesting and worth writing down will go here. This page is hosted at: https://jpsheils.github.io/
 
 ## Topics
 
@@ -20,8 +20,8 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
   
   <ul>
     <li>
+      Miscellaneous
       <ul>
-        <lh>Miscellaneous</lh>
         <li><a href="./politics/miscellaneous/grundgesetz-des-volkes">Collective Morality</a></li>
       </ul>
     </li>
@@ -41,7 +41,7 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
 
 ## Questions/Suggestions
 
-Questions, feedback, or suggestions can be given via the "issues" tab on this repo. Create an issue, label it as a "question" and we can discuss further there (and make and required document changes if needed).
+Questions, feedback, or suggestions can be given via the [issues](https://github.com/jpsheils/jpsheils.github.io/issues) tab on this repo. Create an issue, label it as a "question" and we can discuss further there (and make and required document changes if needed).
 
 ## Contributing
 You're welcome to contribute if you'd like.
