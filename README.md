@@ -1,16 +1,18 @@
 # Patrick Sheils' Writing
 
-This serves as a repository of writings, ideas, and such. Basically anything I find interesting and worth writing down will go here. Big brained theories? You bet. Dumb takes that I will squash so you can't see the commit history? Oh yeah.
+This serves as a repository of writings, ideas, and such. Basically anything I find interesting and worth writing down will go here. This page is also served up
 
 ## Topics
 
  <details>
   <summary><strong>Economics</strong></summary>
 
-  * [Financial Reconstruction](./economics/finanzielle-sanierung)
-  * [Crypto Currency](./economics/kryptowährung)
-  * [Recapitalisation and Inflation](./economics/rekapitalisierung-und-inflation)
-  * [Tax Policy & MNC Subsidies](./economics/steuerpolitische-subventionierung)
+  <ul>
+    <li><a href="./economics/finanzielle-sanierung">Financial Reconstruction</a></li>
+    <li><a href="./economics/kryptowährung">Crypto Currency</a></li>
+    <li><a href="./economics/rekapitalisierung-und-inflation">Recapitalisation & Inflation</a></li>
+    <li><a href="./economics/steuerpolitische-subventionierung">Tax Policy & MNC Subsidies</a></li>
+  </ul>
 </details>
 
 <details>
