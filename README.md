@@ -29,13 +29,14 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
     <li><a href="./politics/neokolonialismus">Neocolonialism</a></li>
     <li><a href="./politics/politische-kreativität">Political Creativity</a></li>
   </ul>
-
 </details>
 
 <details>
   <summary><strong>Geopolitics</strong></summary>
   
-  * [Irish Rearmament](./geopolitics/wiederbewaffnung)
+  <ul>
+    <li><a href="./geopolitics/wiederbewaffnung">Irish Rearmament</a></li>
+  </ul>
 </details>
 
 ## Questions/Suggestions
