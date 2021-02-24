@@ -4,9 +4,32 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
 
 ## Topics
 
-1. [Economics](https://github.com/jpsheils/jpsheils.github.io/tree/main/economics)
-2. [Politics](https://github.com/jpsheils/jpsheils.github.io/tree/main/politics)
-3. [Geopolitics](https://github.com/jpsheils/jpsheils.github.io/tree/main/geopolitics)
+ <details>
+  <summary>Economics</summary>
+
+  * [Financial Reconstruction](./economics/finanzielle-sanierung)
+  * [Crypto Currency](./economics/kryptowährung)
+  * [Recapitalisation and Inflation](./economics/rekapitalisierung-und-inflation)
+  * [Tax Policy & MNC Subsidies](./economics/steuerpolitische-subventionierung)
+</details>
+
+<details>
+  <summary>Politics</summary>
+  
+  * [Ideological War](./politics/ideologischer-krieg)
+  * [Neocolonialism](./politics/neokolonialismus)
+  * [Political Creativity](./politics/politische-kreativität)
+
+  ### Miscellaneous
+  * [Collective Morality](./politics/miscellaneous/grundgesetz-des-volkes) 
+
+</details>
+
+<details>
+  <summary>Geopolitics</summary>
+  
+  * [Irish Rearmament](./geopolitics/wiederbewaffnung)
+</details>
 
 ## Questions/Suggestions
 
