@@ -2,7 +2,7 @@
 
 > In politics, nothing is impossible - you just have to find the way forward.
 
-[In other documents](./politics/ideologischer-krieg), I've alluded to the need to be creative/dynamic in our critiques of the status quo. Coming at it from the same old perspective is not going to cut it, we need to evolve. 
+[In other documents](./ideologischer-krieg), I've alluded to the need to be creative/dynamic in our critiques of the status quo. Coming at it from the same old perspective is not going to cut it, we need to evolve. 
 
 Our opposition have the media, education system, corporations, etc on their side. They use these assets for their own political purposes: propaganda, smear campaigns, etc - all serving the goal of knee-capping their opposition. When it concerns nationalists, the establishment has taken decades to program the general public with the tools to detect our traditional talking points, and reject them ('racism bad', 'muh Catholic Church'). However, like all large, establishment forces: they're slow, unresponsive, and struggling to adapt to the world around them. They're a WWI General in command of the Ouvrage Schoenenbourg, with all of their weaponry fixed on a 2004 Hollywood interpretation of "Nationalism".
 
