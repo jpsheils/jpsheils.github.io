@@ -20,7 +20,7 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
   * [Neocolonialism](./politics/neokolonialismus)
   * [Political Creativity](./politics/politische-kreativität)
 
-  ### Miscellaneous
+  #### Miscellaneous
   * [Collective Morality](./politics/miscellaneous/grundgesetz-des-volkes) 
 
 </details>
