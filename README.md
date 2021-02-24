@@ -26,7 +26,7 @@ This serves as a repository of writings, ideas, and such. Basically anything I f
 </details>
 
 <details>
-  <summary>Geopolitics</summary>
+  <summary><strong>Geopolitics</strong></summary>
   
   * [Irish Rearmament](./geopolitics/wiederbewaffnung)
 </details>
