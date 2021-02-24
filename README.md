@@ -1,6 +1,6 @@
 # Patrick Sheils' Writing
 
-This serves as a repository of writings, ideas, and such. Basically anything I find interesting and worth writing down will go here. This page is hosted at: https://jpsheils.github.io/
+This serves as a repository of writings, ideas, and such. Basically anything I find interesting and worth writing down will go here. This page is hosted at: [https://jpsheils.github.io/](https://jpsheils.github.io/)
 
 ## Topics
 
